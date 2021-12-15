@@ -1,5 +1,6 @@
 
---My solutions to SQLZoo. Though I completed all the tutorials and quizzes, I've only included the solutions to tutorial problems that I found interesting and/or challenging.
+--My solutions to SQLZoo. Though I completed all the tutorials and quizzes, I've only included the 
+--solutions to tutorial problems that I found interesting and/or challenging.
 
 
 -- SELECT WITHIN SELECT: https://sqlzoo.net/wiki/SELECT_within_SELECT_Tutorial
